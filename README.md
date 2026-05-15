@@ -1,4 +1,4 @@
-shellcheck.net
+Shellcheck.net
 ==============
 
 ShellCheck's live demo website. Try it out on [ShellCheck.net](http://www.shellcheck.net).
