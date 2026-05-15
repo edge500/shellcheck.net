@@ -1,2 +1,2 @@
 RewriteEngine on
-RewriteRule "(.*)" https://github.com/koalaman/shellcheck/wiki/$1 [R=307,L]
+RewriteRule "(.*)" https://github.com/koalaman/shellcheck/wiki/$.1 [R=307,L]
